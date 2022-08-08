@@ -13,9 +13,7 @@ screen = pygame.display.set_mode()
 background = pygame.image.load('Data\\5532919.jpg')
 width,height=screen.get_size()
 
-# isko ched Values
-playerspeed = (width-height)/5000
-enemyspeed = (width-height)/500
+#setting up background and title
 mixer.music.load('Data\\music_zapsplat_space_trivia.mp3')
 mixer.music.play()
 pygame.display.set_caption('Made By Rishabh Gupta')
@@ -25,6 +23,10 @@ pygame.display.set_icon(icon)
 def iscollide(playerx, playery, enemyx, enemyy):
     distance = math.sqrt(math.pow(enemyx-playerx, 2) +math.pow(enemyy-playery, 2))
     return distance
+
+# tweek this value for different computers
+playerspeed = (width-height)/5000
+enemyspeed = (width-height)/500
 
 # player
 playerimg = pygame.image.load('Data\\rocket.png')
