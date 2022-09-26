@@ -11,4 +11,5 @@ __pip install pygame__
 
 <hr>
 <h3>Some Gameplay of the Game</h3>
-![](https://github.com/RISHABH-GUPTA-RG/space-meteor-avoider/blob/main/Gameplay.png)
+<img src="Gameplay.png">
+<br>
