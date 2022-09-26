@@ -11,6 +11,8 @@ __pip install pygame__
 
 <hr>
 >Some Gameplay of the Game</h3>
+<img src="Gameplay.gif">
+<br>
 <img src="Gameplay.png">
 <br>
-<img src="Gameplay.gif">
+
