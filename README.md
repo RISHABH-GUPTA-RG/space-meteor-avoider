@@ -8,3 +8,7 @@ Score is counted from how many asteroid you have avoided.
 >To play you have to install pygame first<br>
 >You can install pygame by using this command
 __pip install pygame__
+
+<hr>
+<h3>Some Gameplay of the Game</h3>
+![](https://github.com/RISHABH-GUPTA-RG/space-meteor-avoider/blob/main/Gameplay.png)
