@@ -10,6 +10,7 @@ Score is counted from how many asteroid you have avoided.
 __pip install pygame__
 
 <hr>
-<h3>Some Gameplay of the Game</h3>
+>Some Gameplay of the Game</h3>
 <img src="Gameplay.png">
 <br>
+<img src="Gameplay.gif">
